@@ -1,0 +1,17 @@
+{
+  "name": "headless-chrome2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "chrome-remote-interface": "0.23.1",
+    "lighthouse": "2.0.0"
+  }
+}
